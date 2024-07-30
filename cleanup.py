@@ -5,7 +5,7 @@ import shutil
 # if file starts with generated and ends with .jpg copy it to target_path
 
 output_path = "output"
-target_path = "archive/2"
+target_path = "archive/1"
 
 # make
 if not os.path.exists(target_path):
