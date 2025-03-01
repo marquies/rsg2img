@@ -20,7 +20,7 @@ from random import randint
 import sgconversion as converter
 
 # @markdown To get your API key visit https://platform.stability.ai/account/keys
-STABILITY_KEY = "sk-IGPkspmsn5D64ybLxgKKIEsCQQlYtDG4IMJ3WyZmVl9pVuPD"
+STABILITY_KEY = ""
 
 def strip_noun(input, words):
     for word in words:
